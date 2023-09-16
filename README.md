@@ -1,4 +1,6 @@
-# Vegan-Bird
+# Vegan Bird
+
+![Header](header-vegan-bird.jpg)
 
 ## Tabla de contenidos
 
@@ -15,6 +17,8 @@
 Vegan Bird está basado en el popular juego "Flappy Bird", hecho como parte de un proyecto universitario. 
 El juego consiste en esquivar la mayor cantidad de obstáculos posible y obtener el mayor puntaje. El puntaje se obtiene al consumir <i>hamburguesas veganas</i>. Una de las principales dificultades del juego es la aparición aleatoria de hamburguesas de carne, que al consumirlas restan puntos. Para evitarlas se puede esquivar la hamburguesa o dispararle con el <i>rayo conversor</i> que se ubica en la cabeza del personaje. Si el disparo llega al objetivo, la hamburguesa se convertirá en vegana y podrá ser consumida.
 
+<img src="boceto-bienvenida.gif" width = "500">
+
 ## Controles
 
 El personaje tiene la capacidad de <i>volar</i> con saltos que se efectúan pulsando el cursor "arriba". Por cada presión de tecla, el personaje se mueve horizontalmente hasta un punto en el que vuelve a descender.
@@ -26,9 +30,33 @@ Los disparos del <i>rayo conversor</i> se realizan con la tecla "espacio". La ca
 - Bosque: Luego de sumar una cierta cantidad de puntos se pasa al nivel del bosque, donde la velocidad del personaje se incrementa.
 - Cueva: Es el nivel final, se reduce considerablemente la visión del entorno.
 
+<table style="width:100%">
+<tr>
+<td>
+<a>
+<img src="Inicio.jpg" width = "100%">
+</a>
+</td>
+<td>
+<a >
+<img src="Nivel-1.jpg" width = "100%">
+</td>
+<td>
+<a>
+<img src="Nivel-2.jpg" width = "100%">
+</a>
+</td>
+<td>
+<a>
+<img src="Nivel-3.jpg" width = "100%">
+</a>
+</td>
+</tr>
+</table>
+
 ## Clases
 
-La mayoría de las clases coinciden en algunas variables de isntancia, como <i>x</i>, <i>y</i>, <i>ancho</i>, <i>alto</i>. En las dos primeras se guarda la ubicación en pantalla del objeto, y en ls dos últimas las proporciones.
+La mayoría de las clases coinciden en algunas variables de instancia, como <i>x</i>, <i>y</i>, <i>ancho</i>, <i>alto</i>. En las dos primeras se guarda la ubicación en pantalla del objeto, y en las dos últimas las proporciones.
 
 También la clase Pájaro y las clases que interactúan entre sí directamente tienen un método de colisión llamado <i>toca</i> que se explicará luego de las clases.
 
