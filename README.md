@@ -1,6 +1,8 @@
+![Header](header-vegan-bird.jpg)
+
 # Vegan Bird
 
-![Header](header-vegan-bird.jpg)
+Juego realizado como parte del proyecto de la materia Programación I del primer año de la carrera Licenciatura en Sistemas de la Universidad Nacional General Sarmiento.
 
 ## Tabla de contenidos
 
