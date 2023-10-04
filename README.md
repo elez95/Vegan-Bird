@@ -17,7 +17,7 @@ Juego realizado como parte del proyecto de la materia Programación I del primer
 ## Introducción
 
 Vegan Bird está basado en el popular juego "Flappy Bird", hecho como parte de un proyecto universitario. 
-El juego consiste en esquivar la mayor cantidad de obstáculos posible y obtener el mayor puntaje. El puntaje se obtiene al consumir <i>hamburguesas veganas</i>. Una de las principales dificultades del juego es la aparición aleatoria de hamburguesas de carne, que al consumirlas restan puntos. Para evitarlas se puede esquivar la hamburguesa o dispararle con el <i>rayo conversor</i> que se ubica en la cabeza del personaje. Si el disparo llega al objetivo, la hamburguesa se convertirá en vegana y podrá ser consumida.
+El juego consiste en esquivar la mayor cantidad de obstáculos posibles y obtener el mayor puntaje. El puntaje se obtiene al consumir <i>hamburguesas veganas</i>. Una de las principales dificultades del juego es la aparición aleatoria de hamburguesas de carne, que al consumirlas restan puntos. Para evitarlas se puede esquivar la hamburguesa o dispararle con el <i>rayo conversor</i> que se ubica en la cabeza del personaje. Si el disparo llega al objetivo, la hamburguesa se convertirá en vegana y podrá ser consumida.
 
 <img src="boceto-bienvenida.gif" width = "500">
 
@@ -134,7 +134,7 @@ El método <i>toca()</i> es el que contiene el algoritmo de colisión entre los 
 
 ## Logros
 
-Durante el desarrollo del juego, se vio clara la importancia de programar de forma clara y coherente, también se vio la importancia de saber leer código ajeno y compartir ideas, encontrar problemas e investigar a fondo las soluciones. También saber repartir responsabilidades y cumplir con tiempos determinados.
+Durante el desarrollo del juego, se evidenció la importancia de programar de forma clara y coherente, también se vio la importancia de saber leer código ajeno y compartir ideas, encontrar problemas e investigar a fondo las soluciones. También saber repartir responsabilidades y cumplir con tiempos determinados.
 
 ## Contribución
 
